@@ -6,5 +6,4 @@
 - [Lesson Коллекции для параллельной (конкурирующей) работы](https://github.com/romanova-nat/MultithreadingCallCenter)
 - [Lesson Non-Blocking IO](https://github.com/romanova-nat/MultithreadingClientServerNIO)
 - [Lesson Blocking IO](https://github.com/romanova-nat/MultithreadingServerClientFibonachy)
-MultithreadingReportToTheTax)
 - [Lesson Функциональное программирование](https://github.com/romanova-nat/MultithreadingFunctionalVocabulary)
