@@ -1,4 +1,4 @@
-### Хранение данных и организация безопасности
+### Многопоточное и функциональное программирование
 - [Lesson Многопоточное (параллельное) программирование. Создание и запуск потоков](https://github.com/romanova-nat/MultitreadingDialogue_TwoBranch)
 - [Lesson Synchronization, wait, notify, sleep, lock](https://github.com/romanova-nat/MultithreadingAutoshop)
 - [Lesson Volatile](https://github.com/romanova-nat/MultithreadingUselessBox)
